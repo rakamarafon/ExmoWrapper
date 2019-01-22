@@ -2,7 +2,7 @@
 
 namespace ExmoWrapper
 {
-    public class Class1
+    public class ExmoApi
     {
     }
 }
