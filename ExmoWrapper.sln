@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExmoWrapper", "ExmoWrapper\ExmoWrapper.csproj", "{03E672AD-D44C-4342-BCDE-EA1E60EAC963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E672AD-D44C-4342-BCDE-EA1E60EAC963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E672AD-D44C-4342-BCDE-EA1E60EAC963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E672AD-D44C-4342-BCDE-EA1E60EAC963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E672AD-D44C-4342-BCDE-EA1E60EAC963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA281DA8-9942-4E3B-81EB-E50E9B5DE806}
+	EndGlobalSection
+EndGlobal
