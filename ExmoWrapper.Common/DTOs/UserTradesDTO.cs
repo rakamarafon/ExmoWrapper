@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ExmoWrapper.Common.DTOs
 {
-    class UserTradesDTO
+    public class UserTradesDTO
     {
     }
 }

@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interfaces\" />
+    <ProjectReference Include="..\ExmoWrapper.Common\ExmoWrapper.Common.csproj" />
   </ItemGroup>
 
 </Project>

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExmoWrapper.Common.DTOs
+namespace ExmoWrapper.BusinessLogicLayer.Interfaces
 {
-    public class OrderCancelDTO
+    public interface IPublicAPI
     {
     }
 }
