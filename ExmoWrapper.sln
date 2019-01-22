@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExmoWrapper.DataAccessLayer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExmoWrapper.BusinessLogicLayer", "ExmoWrapper.BusinessLogicLayer\ExmoWrapper.BusinessLogicLayer.csproj", "{D6EB1520-11E6-4D2C-9B69-C874BAEA27F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExmoWrapper.Common", "ExmoWrapper.Common\ExmoWrapper.Common.csproj", "{F813590D-3107-48CF-BFAE-864D02B971D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D6EB1520-11E6-4D2C-9B69-C874BAEA27F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6EB1520-11E6-4D2C-9B69-C874BAEA27F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6EB1520-11E6-4D2C-9B69-C874BAEA27F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F813590D-3107-48CF-BFAE-864D02B971D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F813590D-3107-48CF-BFAE-864D02B971D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F813590D-3107-48CF-BFAE-864D02B971D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F813590D-3107-48CF-BFAE-864D02B971D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
